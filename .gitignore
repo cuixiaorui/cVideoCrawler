@@ -1,0 +1,3 @@
+config/mail.config.json
+node_modules/*
+videos/*
