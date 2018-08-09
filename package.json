@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "node lib/index.js"
+  },
+  "dependencies": {
+    "jsdom": "^11.12.0"
+  }
+}

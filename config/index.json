@@ -1,0 +1,5 @@
+{
+    "website":"aiqiyi",
+    "parseAPI":"http://vip.jlsprh.com/index.php?url=",
+    "compressUrlAPI":"http://suo.im/api.php?url="
+}
