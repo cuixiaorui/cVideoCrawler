@@ -1,8 +1,13 @@
 {
+  "version": "0.0.1",
   "scripts": {
     "start": "node lib/index.js"
   },
   "dependencies": {
     "jsdom": "^11.12.0"
+  },
+  "devDependencies": {
+    "nodemailer": "^4.6.7",
+    "nodemailer-smtp-transport": "^2.7.4"
   }
 }

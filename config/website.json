@@ -1,9 +1,7 @@
 {
-    "website":{
-        "aiqiyi":{
-            "name":"爱奇艺",
-            "url":"http://www.iqiyi.com/",
-            "searchUrl":"http://so.iqiyi.com/so/q_"
-        }
+    "aiqiyi":{
+        "name":"爱奇艺",
+        "url":"http://www.iqiyi.com/",
+        "searchUrl":"http://so.iqiyi.com/so/q_"
     }
 }
